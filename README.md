@@ -24,5 +24,5 @@
 <br>
 <p align="center"><b>Vem ver como ficou!</b></p>
 <p align="center">
-  <img src="https://i.imgur.com/Gdqu0aF.gif" width="600px">
+  <img src="/assets/ui-clone-github.gif?raw=true" width="100%">
 <p>
