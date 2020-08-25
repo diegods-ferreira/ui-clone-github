@@ -26,13 +26,15 @@ export default createGlobalStyle`
   }
 
   :root {
-    ${(props) => {
+    ${props => {
       const theme = props.theme;
 
       let append = '';
       Object.entries(theme).forEach(([prop, value]) => {
         append += `--${prop}: ${value};`
       });
+
+      return append;
     }}
   }
 `;
