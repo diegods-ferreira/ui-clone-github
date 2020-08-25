@@ -19,5 +19,10 @@
 <br>
 <p><b>Quer testar a aplicação você mesmo?</b></p>
 <p>
-  Clone esse repositório e, na pasta raiz do projeto, rodar o comando <code>yarn</code> para instalar todas as dependências. Depois de instaladas, basta executar o comando <code>yarn start</code> e acessar o endereço <code>http://localhost:3000</code> pelo browser.
+  Clone esse repositório e, na pasta raiz do projeto, execute o comando <code>yarn</code> para instalar todas as dependências. Depois de instaladas, basta executar o comando <code>yarn start</code> e acessar o endereço <code>http://localhost:3000</code> pelo browser.
 </p>
+<br>
+<p ><b>Vem ver como ficou!</b></p>
+<p align="center">
+  <img src="https://i.imgur.com/Gdqu0aF.gif" width="100%">
+<p>
