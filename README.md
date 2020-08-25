@@ -22,7 +22,7 @@
   Clone esse repositório e, na pasta raiz do projeto, execute o comando <code>yarn</code> para instalar todas as dependências. Depois de instaladas, basta executar o comando <code>yarn start</code> e acessar o endereço <code>http://localhost:3000</code> pelo browser.
 </p>
 <br>
-<p align="center"><b>Vem ver como ficou!</b></p>
+<h2 align="center"><b>Vem ver como ficou!</b></h2>
 <p align="center">
   <img src="/assets/ui-clone-github.gif?raw=true" width="100%">
 <p>
